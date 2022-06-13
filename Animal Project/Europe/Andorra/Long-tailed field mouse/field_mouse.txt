@@ -1,0 +1,38 @@
+<html>
+<head>
+<h1 style= "font-size:360%">ANIMALS WORLD</h1>
+     
+
+<a href="file:///C:/Users/ZUBAER/Desktop/3.1%20xm/WebDevelopment/Animal%20Project/MainPage.html">
+ <img src ="Vulture.png" width="920" height="250">[Click Image For Home]</a>
+<h1 class="head2"><div style="background-color:lightblue">About the Vulture in Andorra:<h1></div>
+
+<style>
+     #head1{background-color: green;}
+	 .head2{
+	            color:green;
+				text-align: center;
+				}
+				.head3{
+	            
+				text-align: center;
+				}
+			
+				.head4{
+	            color:black;
+				text-align:justify;
+				padding-right:20px;
+				padding-left:20px;
+				
+				}
+	 </style>
+</head>
+
+<body id="head1">
+ <p><h3 class="head4"> <div style="background-color:lightgreen">
+
+<h1 style="text-align:center;color:red">Information about the Vulture :</h1>
+
+
+
+</h3></p></body></html>
